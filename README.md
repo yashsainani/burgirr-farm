@@ -1,6 +1,6 @@
 # 🍔 Burgirr Farm
 
-[Burgirr Singh](https://yashsainani.github.io/burgirr-farm/)
+[Burgirr Farm](https://yashsainani.github.io/burgirr-farm/)
 
 Burger Farm is a simple interactive web application where users can place an order for a meal by selecting items like a burger, fries, and a drink or you can select all. The application then displays the selected items along with a unique order ID.
 
