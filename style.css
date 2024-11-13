@@ -20,6 +20,7 @@ body {
     background-size: cover;
     position: relative;
     z-index: 1;
+    opacity: .9;
 }
 
 body::after {
@@ -103,6 +104,7 @@ label, input {
     padding: 2rem;
     color: sienna;
     font-weight: bolder;
+    text-align: center;
 }
 
 .image {
@@ -118,7 +120,6 @@ label, input {
     cursor: pointer;
     border-radius: 1rem;
     transition: all 0.5s;
-    opacity: .7;
 }
 
 .image img:hover {
@@ -130,6 +131,12 @@ label, input {
         flex-direction: column;
         gap: 2rem;
         padding: 5rem 0;
+    }
+
+    .image {
+        flex-direction: column;
+        gap: 4rem;
+        margin-bottom: 4rem;
     }
 }
 
